@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋</h1>
 <h3 align="center">3rd year computer systems engineering college student 🎓 from Mexico 🇲🇽</h3>
 
 <h3 align="left">Languages and Tools:</h3>
