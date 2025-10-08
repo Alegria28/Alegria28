@@ -11,8 +11,5 @@
         <td>
             <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alegria28&show_icons=true&locale=en" alt="alegria28" /></p>
         </td>
-        <td>
-            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alegria28&" alt="alegria28" /></p>
-        </td>
     </tr>
 </table>
