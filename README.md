@@ -1,4 +1,4 @@
-<h3 align="center">3rd year computer systems engineering college student 🎓 from Mexico 🇲🇽</h3>
+<h3 align="center">4th year computer systems engineering college student 🎓 from Mexico 🇲🇽</h3>
 
 <h3 align="center">Languages</h3>
 <p align="center">
