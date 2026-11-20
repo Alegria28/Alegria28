@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  I build backend services and the infrastructure that keeps them running:
-  idempotent data synchronization, versioned pricing with historical snapshots,
-  CI/CD with rollback, and backups you can actually restore.
+  I build backend services and the infrastructure that keeps them running.
 </p>
 
 ## Featured work
