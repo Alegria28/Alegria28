@@ -29,4 +29,4 @@ client's private server.
 
 ## Stack
 
-<sub>Java · Spring Boot · TypeScript · JavaScript · Node.js · Express · Angular · PostgreSQL · MongoDB · Redis · Docker · nginx · GitHub Actions · Linux · Git</sub>
+<sub>Angular · Docker · Express · Git · GitHub Actions · Java · JavaScript · Linux · MongoDB · nginx · Node.js · PostgreSQL · Redis · Spring Boot · TypeScript</sub>
